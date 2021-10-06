@@ -24,6 +24,7 @@ High John the Conqueror and John the Conqueror Root sample text sample.  Complet
 _Ipomoea purga_ is described as a vine that can reach heights of 12 feet (3.7 m). When fresh, the root is black externally, white and milky within, and varies in size according to its age. It has heart shaped leaves and purple trumpet like flowers. _Ipomoea purga_ is rather difficult to break down, but if triturated with cream of tartar, sugar of milk, or other hard salts, the process of pulverization is much easier, and the powder rendered much finer. When in powder form in order to ingest, the color is a pale grayish brown. _Ipomoea purga_ is native to Mexico and it is naturalized in other parts of the neotropics.
 <param ve-entity eid=Q1123117>
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Ipomoea_purga_%28as_Exogonium_purga%29_Bot._Reg._33.49.jpg">
+<param ve-plant-specimen jpid=0.5555/al.ap.specimen.ma603851>
 
 # Basic usage
 
