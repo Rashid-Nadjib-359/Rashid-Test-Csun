@@ -2,6 +2,7 @@
 
 <param ve-config 
        title="High John the Conqueror and John the Conqueror Root" 
+       author="Rashid Nadjib"
        banner="https://alchetron.com/Ipomoea-purga#ipomoea-purga-6dc27a04-3ed3-4e71-a6ef-6f6c42398c0-resize-750.jpg" 
        layout="vertical">
 
