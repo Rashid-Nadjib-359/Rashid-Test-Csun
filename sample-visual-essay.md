@@ -21,6 +21,7 @@ High John the Conqueror sample text. This is a sample visual essay demonstrating
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 ### Jalap
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Ipomoea_purga_%28as_Exogonium_purga%29_Bot._Reg._33.49.jpg"
 
 # Basic usage
 
