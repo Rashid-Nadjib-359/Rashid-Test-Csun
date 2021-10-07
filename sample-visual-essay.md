@@ -44,8 +44,8 @@ Brazil, rituals, sample map
 ## Bolsas de Mandingas
 
 Bolsas sample viewer? Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image= http://www.thethinkersgarden.com/2020/10/bolsas-de-mandinga-an-interview-with-professor-cecile-fromont/#jp-carousel-4781">
-<param ve-map center="Q36600" zoom="11">
+<param ve-image="https://s3.amazonaws.com/omeka-net/26559/archive/files/887c940d449e815aac7e11a277112f3d.jpg?AWSAccessKeyId=AKIAI3ATG3OSQLO5HGKA&Expires=1634774400&Signature=IVu3jr4yFAeacI8k%2F6waR%2BlSs1A%3D">
+<param ve-map center="Q155" zoom="11">
 
 # References
 
