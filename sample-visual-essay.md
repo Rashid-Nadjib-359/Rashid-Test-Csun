@@ -41,11 +41,10 @@ High John the Conqueror
 Brazil, rituals, sample map
 <param ve-map center="Q155" zoom="4" prefer-geojson>
 
-## Multiple viewers
+## Bolsas de Mandingas
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+Bolsas sample viewer? Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
+<param ve-image= http://www.thethinkersgarden.com/2020/10/bolsas-de-mandinga-an-interview-with-professor-cecile-fromont/#jp-carousel-4781">
 <param ve-map center="Q36600" zoom="11">
 
 # References
