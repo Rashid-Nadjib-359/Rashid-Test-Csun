@@ -25,7 +25,6 @@ _Ipomoea purga_ is described as a vine that can reach heights of 12 feet (3.7 m)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Ipomoea_purga_%28as_Exogonium_purga%29_Bot._Reg._33.49.jpg">
 <param ve-plant-specimen jpid=0.5555/al.ap.specimen.ma603851>
 
-# Basic usage
 
 ## Image
 
@@ -44,7 +43,6 @@ Brazil, rituals, sample map
 ## Bolsas de Mandingas
 
 Bolsas sample viewer? Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image url="https://i2.wp.com/www.thethinkersgarden.com/wp-content/uploads/2020/10/PT-TT-TSO-IL-28-11774_m0039-2.jpg?fit=5296%2C2900">
 <param ve-map center="Q155" zoom="5">
 
 # References
