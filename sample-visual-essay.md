@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="High John the Conqueror and John the Conqueror Root" 
+       title="High John the Conqueror and John the Conqueror Root: Rituals, Charms, and Folklore in the African Diaspora" 
        author="Rashid Nadjib"
        banner="https://upload.wikimedia.org/wikipedia/commons/f/fb/Ipomoea_purga_%28as_Exogonium_purga%29_Bot._Reg._33.49.jpg" 
        layout="vertical">
@@ -14,12 +14,12 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# High John the Conqueror
+# High John the Conqueror 
 
 High John the Conqueror and John the Conqueror Root sample text sample.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image url="https://cdn.shopify.com/s/files/1/0262/6892/6015/files/high_john_480x480.jpg?v=1602642727">
 
-# Jalap
+# John the Conqueror Root
 _Ipomoea purga_ is described as a vine that can reach heights of 12 feet (3.7 m). When fresh, the root is black externally, white and milky within, and varies in size according to its age. It has heart shaped leaves and purple trumpet like flowers. _Ipomoea purga_ is rather difficult to break down, but if triturated with cream of tartar, sugar of milk, or other hard salts, the process of pulverization is much easier, and the powder rendered much finer. When in powder form in order to ingest, the color is a pale grayish brown. _Ipomoea purga_ is native to Mexico and it is naturalized in other parts of the neotropics.
 <param ve-entity eid=Q1123117>
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Ipomoea_purga_%28as_Exogonium_purga%29_Bot._Reg._33.49.jpg">
@@ -36,7 +36,7 @@ High John the Conqueror
        license="public domain" 
        url="https://chroniclesofharriet.files.wordpress.com/2013/05/folk-2.jpg">
 
-## Map
+## Bolsas de Mandingas in African Brazil
 
 Brazil, rituals, sample map
 <param ve-map center="Q155" zoom="4" prefer-geojson>
