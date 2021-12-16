@@ -46,12 +46,21 @@ High John the Conqueror
 
 ## Bolsas de Mandingas in African Brazil
 
-Brazil, rituals, sample map
+The power of luck in the African diaspora was a means in which to protect themselves in their everyday life manifested through African healers’ use of talismans, rituals, and charms. The institution of slavery and the trans-Atlantic slave trade facilitated a proxy for African slaves to continue their traditional ways of acquiring luck so that they may be protected and endure the daily berating of slavery. Near the end of the seventeenth century and largely into the eighteenth century, the most common use of talismans in the African diaspora in Brazil was the bolsa de mandinga. The makeup of bolsas were quite simple: they were typically made of a pouch that was made of cloth or leather, worn around the neck on a string, and contained any number of substances inside of them, which included Christian orations, rocks, sticks, roots, and so on. No bolsa were the same, for example, one bolsa was able to give its wearer protection from a slave owner and their beatings, while another bolsa was worn to be able to give its wearer luck to win games. The concept of bolsas, however, were not exclusive to only Africa and African healers. Bolsas were also used by the Portuguese dating as far back as the Middle Ages, yet, became distinguished as bolsas de mandingas as their use became more prominent by the African diaspora as a way to identify that Africans were using bolsas on their own terms.
+
 <param ve-map center="Q155" zoom="4" prefer-geojson>
 
-## Bolsas de Mandingas
+## Slave Narratives and WPA Narratives
 
-Bolsas sample viewer? Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
+The case for John the Conqueror root being used as a means for fighting back against slave owners can be seen in several Works Progress Administration (WPA) narratives and autobiographies written by slaves during 19th and early 20th centuries. One of the most significant instances of a charm being used as a way to stop abuses from a slave owner can be seen in Frederick Douglass’ autobiography Narrative of the Life of Frederick Douglass, An American Slave. While Douglass does not mention John the Conqueror root by name, his brief passage about using a charm displays some of the same characteristics that John the Conqueror root shares and how it protected him from his owner Mr. Covey. Douglass writes: 
+	I found Sandy an old adviser. He told me, with great solemnity, I must go back to Covey; 		but that before I went, I must go with him into another part of the woods, where there was 	a certain root, which if I would take some of it with me, carrying it always on my right 		side, would render it impossible for Mr. Covey, or any other white man to whip me. He 		said he had carried it for years; and since he had done so, he had never received a blow, 		and never expected to while he carried it.
+The root that Douglass carried on his right side had its desired effect. Once Douglass returned home, Covey spoke to him in a kind manner and let him continue his day unabated. However, by the next day the root’s effect had worn off and a severe fight broke out between Douglass and Covey, leading to Douglass getting the upper hand and winning the fight. Yet this did not lead to Douglass getting whipped or punished for this behavior or any other time after that. Roots had a considerable ability to effect change. While Douglass did not believe that the root that his conjure doctor, Sandy, had given him would lead to such a change in behavior in his owner, Douglass had to resign to the fact that it may have
+
+<param ve-image 
+       label="High John the Conqueror" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://chroniclesofharriet.files.wordpress.com/2013/05/folk-2.jpg">
 <param ve-map center="Q155" zoom="5">
 
 # References
